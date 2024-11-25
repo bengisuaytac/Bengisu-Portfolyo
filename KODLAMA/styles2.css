@@ -1,0 +1,149 @@
+
+article {
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    max-width: 800px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  article h3 {
+    font-size: 1.8rem;
+    color: #ff4d6d;
+    margin-bottom: 10px;
+  }
+  
+  article img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  article p {
+    font-size: 1rem;
+    color: #555;
+  }
+  .back-link {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .back-link:hover {
+    text-decoration: underline;
+  }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    width: 900px;
+  }
+  
+  header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+
+  main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  main img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+  }
+  
+  main p {
+    margin-bottom: 1.5rem;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-top: 40px;
+    color: #555;
+  }
+  
+ 
+  .buyukada {
+    background-color: #f0f8ff; 
+    width: 900px;
+  }  
+  .buyukada img {
+    border: 3px solid #4CAF50;
+    border-radius: 10px;
+  }
+  
+
+  .cankaya {
+    background-color: #fff8e1; 
+    width: 900px;
+  }
+  
+  .cankaya img {
+    border: 3px solid #ff9800;
+    border-radius: 10px;
+  }
+  
+  
+  .suleymaniye {
+    background-color: #f3e5f5; 
+  }
+  
+  .suleymaniye img {
+    border: 3px solid #673ab7;
+    border-radius: 10px;
+  }
+  
+ 
+  .kucukayasofya {
+    background-color: #e8f5e9; 
+  }
+  
+  .kucukayasofya img {
+    border: 3px solid #4CAF50;
+    border-radius: 10px;
+  }
+  
+ 
+  footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #222;
+    color: white;
+    margin-top: 20px;
+  }
+  
+  
+  .back-link {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .back-link:hover {
+    text-decoration: underline;
+  }

@@ -1,0 +1,38 @@
+h1{color: blueviolet;
+position: relative;
+text-align: center;}
+body{height: 2000px;}
+p{color: rgb(47, 14, 77);}
+.flex-container{display: flex;
+    justify-content: space-around;
+}
+.menu-container{display: flex;
+    flex-direction: row;
+    justify-content: end;}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu-container{
+    color: #fff;
+    background-color: #5995DA; /*blue*/
+    padding: 10px 0;
+}
+.menu{
+    border: 1px solid #fff; /*for debugging*/
+    width: 900px;
+    display: flex;
+    justify-content: space-around;
+}
+.red{
+    color: red;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+}
+.column{
+    align-items: end;
+}
